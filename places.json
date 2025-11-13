@@ -111,6 +111,17 @@
       "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3437.328!2d78.2927!3d30.0869"
     }
   ]
+},{
+  "name": "Goa",
+  "description": "Goa is India's favorite beach destination known for beaches, parties, and Portuguese heritage.",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/5/53/Baga_Beach_Goa.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/4/4b/Goa_beach_sunset.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/9/9a/Fort_Aguada_Goa.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/e/e5/Old_Goa_Churches.jpg"
+  ],
+  "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d245899.123!2d73.8!3d15.3"
 }
+
 
 
