@@ -1,85 +1,41 @@
 {
   "places": [
     {
-      "name": "Kerala",
-      "description": "Known as God's Own Country, Kerala offers serene backwaters, lush greenery, tea gardens, and houseboats.",
-      "images": [
-        "https://upload.wikimedia.org/wikipedia/commons/1/1e/Backwaters_in_Kerala.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/b/b8/Tea_garden_munnar.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/a/a5/Houseboat_in_Kerala.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/4/4a/Kovalam_Beach.jpg"
-      ],
-      "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d253802.512970993!2d75.7804029!3d10.8505159"
-    },
-    {
       "name": "Ooty",
-      "description": "A famous hill station in Tamil Nadu, Ooty is known for its tea gardens, lakes, and cool weather.",
+      "description": "Queen of the Nilgiris, famous for tea gardens, lakes, and misty weather.",
       "images": [
-        "https://upload.wikimedia.org/wikipedia/commons/6/65/Ooty_Lake.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/d/d1/Ooty_Botanical_Gardens.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/e/e4/Nilgiri_Mountain_Railway.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/2/22/Ooty_Hill_View.jpg"
+        "https://upload.wikimedia.org/wikipedia/commons/9/99/Ooty_lake_boating.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f7/Ooty_Botanical_Garden.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/25/Ooty_town_view.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/54/Doddabetta_ooty.jpg"
       ],
-      "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d50342.87874651894!2d76.693243!3d11.406413"
-    },
-    {
-      "name": "Manali",
-      "description": "Manali is a stunning Himalayan town in Himachal Pradesh, famous for snow-capped peaks and adventure activities.",
-      "images": [
-        "https://upload.wikimedia.org/wikipedia/commons/d/d1/Manali_Himachal_Pradesh.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/a/a7/Hidimba_Devi_Temple_Manali.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/8/81/Rohtang_Pass_Manali.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/6/6a/Beas_River_Manali.jpg"
-      ],
-      "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30355.737290258853!2d77.1892!3d32.2432"
-    },
-    {
-      "name": "Darjeeling",
-      "description": "Darjeeling, the Queen of Hills, is known for its tea estates, Toy Train, and view of Mt. Kanchenjunga.",
-      "images": [
-        "https://upload.wikimedia.org/wikipedia/commons/1/1f/Darjeeling_town.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/d/d9/Tiger_Hill_View_Darjeeling.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/a/aa/Darjeeling_Himalayan_Railway.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/3/38/Batasia_Loop_Darjeeling.jpg"
-      ],
-      "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d28739.07912520346!2d88.2627!3d27.041"
+      "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15632.848967861992!2d76.692!3d11.4064"
     },
     {
       "name": "Munnar",
-      "description": "Munnar is a picturesque hill station in Kerala known for tea plantations, valleys, and misty mountains.",
+      "description": "Munnar, located in Kerala, is known for its lush tea gardens, waterfalls, and cool climate.",
       "images": [
-        "https://upload.wikimedia.org/wikipedia/commons/8/8b/Munnar_tea_gardens.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/b/bb/Munnar_scenery.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/2/2e/Munnar_Lake.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/0/09/Munnar_hills.jpg"
+        "https://upload.wikimedia.org/wikipedia/commons/9/97/Munnar_tea_plantations.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/d7/Munnar_top_station_view.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/7/7d/Mattupetty_Dam.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/19/Munnar_Kerala.jpg"
       ],
-      "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d50316.424!2d77.0627!3d10.0892"
+      "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3924.7300586185643!2d77.0577!3d10.0889"
     },
     {
-      "name": "Kodaikanal",
-      "description": "Kodaikanal, the Princess of Hill Stations, is known for its lake, pine forests, and cool climate.",
+      "name": "Manali",
+      "description": "Manali is a hill station in Himachal Pradesh known for snow-capped mountains and adventure sports.",
       "images": [
-        "https://upload.wikimedia.org/wikipedia/commons/f/f4/Kodaikanal_Lake.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/3/3e/Coakers_Walk_Kodaikanal.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/1/16/Bryant_Park_Kodaikanal.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/9/98/Pillar_Rocks_Kodaikanal.jpg"
+        "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manali_town_Himachal_Pradesh.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/b/b6/Solang_Valley_Manali.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/d9/Rohtang_Pass_Manali.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f7/Beas_River_Manali.jpg"
       ],
-      "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d50326.379!2d77.4892!3d10.2381"
-    },
-    {
-      "name": "Jaipur",
-      "description": "The Pink City of India, Jaipur is famous for its forts, palaces, and vibrant Rajasthani culture.",
-      "images": [
-        "https://upload.wikimedia.org/wikipedia/commons/7/7c/Hawa_Mahal_Jaipur.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/9/99/Amber_Fort_Jaipur.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/3/33/City_Palace_Jaipur.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/5/59/Jantar_Mantar_Jaipur.jpg"
-      ],
-      "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3560.698!2d75.7873!3d26.9124"
+      "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3897.872!2d77.188!3d32.2396"
     },
     {
       "name": "Goa",
-      "description": "Goa is India's beach paradise known for its coastline, nightlife, seafood, and Portuguese heritage.",
+      "description": "Goa is India's favorite beach destination, known for beaches, parties, and Portuguese heritage.",
       "images": [
         "https://upload.wikimedia.org/wikipedia/commons/5/53/Baga_Beach_Goa.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/4/4b/Goa_beach_sunset.jpg",
@@ -89,39 +45,70 @@
       "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d245899.123!2d73.8!3d15.3"
     },
     {
-      "name": "Shimla",
-      "description": "Shimla, the capital of Himachal Pradesh, is known for colonial architecture, Mall Road, and scenic hills.",
+      "name": "Jaipur",
+      "description": "Jaipur, the Pink City, is famous for its forts, palaces, and vibrant bazaars.",
       "images": [
-        "https://upload.wikimedia.org/wikipedia/commons/b/b6/Christ_Church_Shimla.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/0/0d/Mall_Road_Shimla.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/e/eb/Shimla_Hills.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/d/d3/Kufri_Snow_Shimla.jpg"
+        "https://upload.wikimedia.org/wikipedia/commons/9/99/Hawa_Mahal_2011.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/1f/Amber_Fort_Jaipur.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/88/City_Palace_Jaipur.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/eb/Jal_Mahal_in_Jaipur.jpg"
       ],
-      "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3431.453!2d77.1734!3d31.1048"
+      "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3559.636!2d75.7873!3d26.9124"
     },
     {
-      "name": "Rishikesh",
-      "description": "Rishikesh is a spiritual town on the banks of the Ganges River, famous for yoga, temples, and adventure sports.",
+      "name": "Delhi",
+      "description": "Delhi, the capital city of India, is rich in heritage and culture, with landmarks like Red Fort and India Gate.",
       "images": [
-        "https://upload.wikimedia.org/wikipedia/commons/4/4d/Laxman_Jhula_Rishikesh.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/9/9b/River_Ganga_Rishikesh.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/8/8f/Parmarth_Niketan_Rishikesh.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/a/a4/Rafting_in_Rishikesh.jpg"
+        "https://upload.wikimedia.org/wikipedia/commons/2/2e/India_Gate_in_New_Delhi_03-2016_img3.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/5f/Red_Fort_Delhi_2019.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/7/7c/Qutub_Minar_New_Delhi.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/9c/Humayun%27s_Tomb%2C_Delhi%2C_India.jpg"
       ],
-      "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3437.328!2d78.2927!3d30.0869"
+      "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d224345.315!2d77.0689!3d28.5275"
+    },
+    {
+      "name": "Kashmir",
+      "description": "Kashmir, the paradise on earth, is known for snow peaks, Dal Lake, and shikara rides.",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/d4/Dal_Lake_Kashmir.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/8e/Gulmarg_meadows_Kashmir.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/34/Pahalgam_Valley_Kashmir.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/21/Srinagar_city_view.jpg"
+      ],
+      "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d326969.726!2d74.8!3d34.1"
+    },
+    {
+      "name": "Agra",
+      "description": "Agra is home to the Taj Mahal, one of the Seven Wonders of the World.",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/da/Taj-Mahal.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/1d/Agra_Fort_view.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f7/Mehtab_Bagh_Taj_Mahal_View.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/24/Tomb_of_I%27tim%C4%81d-ud-Daulah%2C_Agra.jpg"
+      ],
+      "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3561.461!2d78.0421!3d27.1751"
+    },
+    {
+      "name": "Mysore",
+      "description": "Mysore, in Karnataka, is known for the Mysore Palace, Dasara festival, and sandalwood products.",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/0/0d/Mysore_Palace_Night.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/94/Chamundi_Hill_Mysore.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/5b/St._Philomena%27s_Church_Mysore.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/69/Mysore_Zoo.jpg"
+      ],
+      "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3897.8!2d76.639!3d12.2958"
+    },
+    {
+      "name": "Darjeeling",
+      "description": "Darjeeling is a hill station in West Bengal known for tea gardens and the Toy Train.",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/a/a7/Darjeeling_Tea_Garden.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/22/Darjeeling_Himalayan_Railway_train.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/b/bb/Tiger_Hill_Darjeeling_Sunrise.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/7/7a/Batasia_Loop_Darjeeling.jpg"
+      ],
+      "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d57519.613!2d88.25!3d27.04"
     }
   ]
-},{
-  "name": "Goa",
-  "description": "Goa is India's favorite beach destination known for beaches, parties, and Portuguese heritage.",
-  "images": [
-    "https://upload.wikimedia.org/wikipedia/commons/5/53/Baga_Beach_Goa.jpg",
-    "https://upload.wikimedia.org/wikipedia/commons/4/4b/Goa_beach_sunset.jpg",
-    "https://upload.wikimedia.org/wikipedia/commons/9/9a/Fort_Aguada_Goa.jpg",
-    "https://upload.wikimedia.org/wikipedia/commons/e/e5/Old_Goa_Churches.jpg"
-  ],
-  "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d245899.123!2d73.8!3d15.3"
 }
-
-
-
