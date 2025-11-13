@@ -1,1 +1,185 @@
+{
+  "places": [
+    {
+      "name": "Kerala",
+      "location": "South India",
+      "description": "Known as 'God's Own Country', Kerala is famous for its backwaters, beaches, tea gardens, and lush greenery.",
+      "foods": "Appam, Puttu, Fish Curry, Malabar Parotta",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/1e/Backwaters_in_Kerala.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/b/b8/Tea_garden_munnar.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/a5/Houseboat_in_Kerala.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/4a/Kovalam_Beach.jpg"
+      ],
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3932146.1828349423!2d74.5!3d10.8505!2m3!1f0!2f0!3f0!",
+      "travel": {
+        "road": "Well-connected highways from Bangalore, Chennai, and Coimbatore.",
+        "train": "Major railway stations: Ernakulam, Thiruvananthapuram, Kozhikode.",
+        "air": "Airports: Kochi (COK), Trivandrum (TRV), Calicut (CCJ)."
+      }
+    },
+    {
+      "name": "Ooty",
+      "location": "Tamil Nadu, South India",
+      "description": "Ooty, known as the Queen of Hill Stations, is famous for its tea estates, lake, and cool weather.",
+      "foods": "Varkey, Homemade Chocolates, South Indian Meals",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/6/65/Ooty_Lake.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/d1/Ooty_Botanical_Gardens.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/e4/Nilgiri_Mountain_Railway.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/22/Ooty_Hill_View.jpg"
+      ],
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d395577.3352!2d76.6932!3d11.4064!2m3!1f0!2f0!3f0!",
+      "travel": {
+        "road": "Accessible from Coimbatore and Mysore via scenic routes.",
+        "train": "Toy train available from Mettupalayam to Ooty.",
+        "air": "Nearest airport: Coimbatore (88 km)."
+      }
+    },
+    {
+      "name": "Manali",
+      "location": "Himachal Pradesh, North India",
+      "description": "Manali, a stunning Himalayan resort town, is known for snow, adventure sports, and scenic beauty.",
+      "foods": "Siddu, Momos, Trout Fish",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/d1/Manali_Himachal_Pradesh.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/a7/Hidimba_Devi_Temple_Manali.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/81/Rohtang_Pass_Manali.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/6a/Beas_River_Manali.jpg"
+      ],
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d389415.8473!2d77.1892!3d32.2396!2m3!1f0!2f0!3f0!",
+      "travel": {
+        "road": "Connected by NH-3 from Delhi and Shimla.",
+        "train": "Nearest railhead: Joginder Nagar (160 km).",
+        "air": "Nearest airport: Bhuntar (50 km)."
+      }
+    },
+    {
+      "name": "Munnar",
+      "location": "Kerala, South India",
+      "description": "Munnar, a picturesque hill station in Kerala, is known for tea plantations, misty hills, and waterfalls.",
+      "foods": "Kerala Sadya, Puttu, Idiyappam, Tea-based snacks",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/12/Munnar_tea_plantations.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/9b/Munnar_Town.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/5c/Mattupetty_Dam_Munnar.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f9/Eravikulam_National_Park_Munnar.jpg"
+      ],
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d395578.999!2d77.059!3d10.0892!2m3!1f0!2f0!3f0!",
+      "travel": {
+        "road": "Accessible from Kochi (130 km) and Madurai (152 km).",
+        "train": "Nearest railhead: Aluva (110 km).",
+        "air": "Nearest airport: Cochin International (110 km)."
+      }
+    },
+    {
+      "name": "Kodaikanal",
+      "location": "Tamil Nadu, South India",
+      "description": "Kodaikanal, the 'Princess of Hill Stations', offers lakes, waterfalls, and beautiful valleys.",
+      "foods": "Homemade Chocolates, Dosa, South Indian meals",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/4/4b/Kodaikanal_Lake.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f2/Coakers_Walk_Kodaikanal.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/ab/Bryant_Park_Kodaikanal.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/27/Pillar_Rocks_Kodaikanal.jpg"
+      ],
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d395579.1113!2d77.489!3d10.2381!2m3!1f0!2f0!3f0!",
+      "travel": {
+        "road": "Accessible via Madurai (120 km) and Dindigul (100 km).",
+        "train": "Nearest station: Kodai Road (80 km).",
+        "air": "Nearest airport: Madurai (120 km)."
+      }
+    },
+    {
+      "name": "Darjeeling",
+      "location": "West Bengal, East India",
+      "description": "Darjeeling is a famous hill station known for tea gardens and panoramic Himalayan views.",
+      "foods": "Thukpa, Momos, Darjeeling Tea",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/2/2b/Darjeeling_Town_and_Kangchenjunga.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/67/Tiger_Hill_Sunrise_Darjeeling.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/2e/Batasia_Loop_Darjeeling.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/da/Darjeeling_Himalayan_Railway.jpg"
+      ],
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d388841.2831!2d88.2627!3d27.041!2m3!1f0!2f0!3f0!",
+      "travel": {
+        "road": "Connected to Siliguri by NH-110.",
+        "train": "Nearest railhead: New Jalpaiguri (NJP).",
+        "air": "Nearest airport: Bagdogra (70 km)."
+      }
+    },
+    {
+      "name": "Jaipur",
+      "location": "Rajasthan, North India",
+      "description": "Jaipur, the Pink City, is famous for royal palaces, forts, and rich Rajasthani culture.",
+      "foods": "Dal Baati Churma, Ghewar, Laal Maas",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/9/9d/Hawa_Mahal_2011.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/0a/Amber_Fort_Jaipur.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/9b/City_Palace_Jaipur.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/de/Jal_Mahal_Jaipur.jpg"
+      ],
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d395636.2872!2d75.7873!3d26.9124!2m3!1f0!2f0!3f0!",
+      "travel": {
+        "road": "NH48 connects Jaipur to Delhi (280 km).",
+        "train": "Major junction with direct trains from Delhi and Mumbai.",
+        "air": "Jaipur International Airport (JAI)."
+      }
+    },
+    {
+      "name": "Goa",
+      "location": "West India",
+      "description": "Goa is India’s party capital, known for its beaches, nightlife, and Portuguese heritage.",
+      "foods": "Goan Fish Curry, Bebinca, Vindaloo",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/1d/Baga_Beach_Goa.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/0c/Fort_Aguada_Goa.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/b/b7/Se_Cathedral_Goa.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/a8/Palolem_Beach_Goa.jpg"
+      ],
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d394657.7363!2d73.8567!3d15.2993!2m3!1f0!2f0!3f0!",
+      "travel": {
+        "road": "NH66 connects Goa to Mumbai and Mangalore.",
+        "train": "Madgaon and Thivim are main stations.",
+        "air": "Goa International Airport (Dabolim)."
+      }
+    },
+    {
+      "name": "Varanasi",
+      "location": "Uttar Pradesh, North India",
+      "description": "Varanasi, the spiritual capital of India, is famous for ghats, Ganga Aarti, and temples.",
+      "foods": "Kachori Sabzi, Lassi, Banarasi Paan",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/4/4a/Varanasi_Ghat.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/3a/Ganga_Aarti_Varanasi.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f4/Kashi_Vishwanath_Temple.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/3e/Boats_in_Varanasi.jpg"
+      ],
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d394700.8476!2d83.0076!3d25.3176!2m3!1f0!2f0!3f0!",
+      "travel": {
+        "road": "Connected via NH19 and NH31.",
+        "train": "Varanasi Junction and Manduadih stations.",
+        "air": "Lal Bahadur Shastri Airport (VNS)."
+      }
+    },
+    {
+      "name": "Leh-Ladakh",
+      "location": "Jammu and Kashmir, North India",
+      "description": "Leh-Ladakh is known for breathtaking landscapes, monasteries, and adventure biking routes.",
+      "foods": "Thukpa, Butter Tea, Momos",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/10/Pangong_Tso_Lake.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/86/Leh_Palace.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/7/7e/Magnetic_Hill_Ladakh.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/37/Nubra_Valley_Ladakh.jpg"
+      ],
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d391095.8474!2d77.5619!3d34.1526!2m3!1f0!2f0!3f0!",
+      "travel": {
+        "road": "Manali-Leh and Srinagar-Leh highways connect it seasonally.",
+        "train": "No direct train; nearest station is Jammu (700 km).",
+        "air": "Kushok Bakula Rimpochee Airport, Leh (IXL)."
+      }
+    }
+  ]
+}
 
