@@ -17,13 +17,13 @@
 </head>
 <body>
 
-<h1>Top 10 Tourist Places in India</h1>
+<h1>Top Tourist Places in India</h1>
 
 <div id="places"></div>
 
 <script>
 fetch("places.json")
-    .then(res => res.json())
+    .then(response => response.json())
     .then(data => {
         let container = document.getElementById("places");
 
@@ -32,13 +32,15 @@ fetch("places.json")
             <div class="place-card">
                 <h2>${place.name}</h2>
                 <p>${place.description}</p>
-                
+
                 <div class="images">
-                    ${place.images.map(img => `<img src="places/${img}" alt="">`).join("")}
+                    ${place.images.map(img => `<img src="${img}" alt="">`).join("")}
                 </div>
 
                 <iframe src="${place.map}" loading="lazy"></iframe>
-            </div>`;
+            </div>
+            `;
+
             container.innerHTML += card;
         });
     });
