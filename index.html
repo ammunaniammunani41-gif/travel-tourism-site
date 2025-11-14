@@ -1,44 +1,49 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Travel & Tourism Guide</title>
-  <link rel="stylesheet" href="style.css" />
+    <title>Travel & Tourism</title>
+    <style>
+        body { font-family: Arial; background: #f0f0f0; padding: 20px; }
+        .place-card {
+            background: white; padding: 20px; margin-bottom: 20px;
+            border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.2);
+        }
+        .images img {
+            width: 200px; height: 150px; object-fit: cover;
+            margin: 5px; border-radius: 10px;
+        }
+        iframe { width: 100%; height: 250px; border: 0; border-radius: 10px; }
+    </style>
 </head>
 <body>
-  <div class="container">
-    <h1>🌍 Explore Your Next Destination</h1>
 
-    <!-- Question Section -->
-    <div id="question-section">
-      <label for="placeSelect">Which place would you like to visit?</label>
-      <select id="placeSelect">
-        <option value="">--Select a Place--</option>
-      </select>
+<h1>Top 10 Tourist Places in India</h1>
 
-      <label for="vehicleSelect">How would you like to travel there?</label>
-      <select id="vehicleSelect">
-        <option value="">--Select a Vehicle--</option>
-        <option value="Car">🚗 Car</option>
-        <option value="Train">🚆 Train</option>
-        <option value="Bus">🚌 Bus</option>
-        <option value="Flight">✈️ Flight</option>
-      </select>
+<div id="places"></div>
 
-      <button id="exploreBtn">Explore</button>
-    </div>
+<script>
+fetch("places.json")
+    .then(res => res.json())
+    .then(data => {
+        let container = document.getElementById("places");
 
-    <!-- Result Section -->
-    <div id="result" class="hidden">
-      <h2 id="placeName"></h2>
-      <p id="placeDescription"></p>
-      <p id="travelMode"></p>
-      <div id="images"></div>
-      <iframe id="map" width="100%" height="400" style="border:0;" allowfullscreen></iframe>
-    </div>
-  </div>
+        data.forEach(place => {
+            let card = `
+            <div class="place-card">
+                <h2>${place.name}</h2>
+                <p>${place.description}</p>
+                
+                <div class="images">
+                    ${place.images.map(img => `<img src="${img}" alt="">`).join("")}
+                </div>
 
-  <script src="script.js"></script>
+                <iframe src="${place.map}" loading="lazy"></iframe>
+            </div>`;
+            container.innerHTML += card;
+        });
+    });
+</script>
+
 </body>
 </html>
+
