@@ -1,95 +1,122 @@
-{
-  "places": [
-    {
-      "name": "Goa",
-      "description": "Famous for beaches, nightlife, and vibrant culture.",
-      "images": [
-        "https://upload.wikimedia.org/wikipedia/commons/f/f6/Baga_Beach_Goa.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/9/97/Calangute_Beach_Goa.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/1/12/Panaji%2C_Goa.jpg"
-      ]
-    },
-    {
-      "name": "Kerala",
-      "description": "Known for backwaters, greenery, hill stations, and Ayurveda.",
-      "images": [
-        "https://upload.wikimedia.org/wikipedia/commons/5/5d/Kerala_backwaters_houseboat.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/e/ee/Alleppey_Boathouse_Kerala.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/5/55/Munnar_hillstation.jpg"
-      ]
-    },
-    {
-      "name": "Ooty",
-      "description": "A beautiful hill station famous for gardens and tea estates.",
-      "images": [
-        "https://upload.wikimedia.org/wikipedia/commons/0/0c/Ooty_Lake.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/5/55/Ooty_Botanical_Garden.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/a/a3/Ooty_Tea_Gardens.jpg"
-      ]
-    },
-    {
-      "name": "Taj Mahal",
-      "description": "One of the Seven Wonders of the World, located in Agra.",
-      "images": [
-        "https://upload.wikimedia.org/wikipedia/commons/d/da/Taj-Mahal.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/f/fc/Taj_Mahal_sunset.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/1/12/Taj_Mahal_from_Yamuna.jpg"
-      ]
-    },
-    {
-      "name": "Manali",
-      "description": "A snowy hill station popular for adventure and nature.",
-      "images": [
-        "https://upload.wikimedia.org/wikipedia/commons/1/1e/Manali_mountains.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/b/b0/Hidimba_Devi_Temple_Manali.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/3/31/Solang_Valley_Manali.jpg"
-      ]
-    },
-    {
-      "name": "Mumbai",
-      "description": "The City of Dreams, known for beaches, nightlife, and Bollywood.",
-      "images": [
-        "https://upload.wikimedia.org/wikipedia/commons/1/12/Gateway_of_India_Mumbai.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/4/47/Marine_Drive_at_Night.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/8/8b/Chhatrapati_Shivaji_Maharaj_Terminus.jpg"
-      ]
-    },
-    {
-      "name": "Varanasi",
-      "description": "One of the oldest cities on Earth, famous for temples and Ganga ghats.",
-      "images": [
-        "https://upload.wikimedia.org/wikipedia/commons/0/02/Varanasi_Ghat.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sunset_in_Varanasi.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/5/5f/Kashi_Vishwanath_Temple.jpg"
-      ]
-    },
-    {
-      "name": "Kolkata",
-      "description": "Cultural capital of India known for heritage and architecture.",
-      "images": [
-        "https://upload.wikimedia.org/wikipedia/commons/6/6e/Howrah_Bridge%2C_Kolkata.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/1/17/Victoria_Memorial_Kolkata.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/8/8d/Dakshineswar_Kali_Temple.jpg"
-      ]
-    },
-    {
-      "name": "Andaman & Nicobar",
-      "description": "Tropical islands known for marine life, beaches, and clear waters.",
-      "images": [
-        "https://upload.wikimedia.org/wikipedia/commons/5/55/Radhanagar_Beach_Havelock.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/9/9a/Port_Blair_Andaman.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/4/49/Elephant_Beach_Andaman.jpg"
-      ]
-    },
-    {
-      "name": "Jaipur",
-      "description": "The Pink City famous for palaces, forts, and traditional markets.",
-      "images": [
-        "https://upload.wikimedia.org/wikipedia/commons/d/d8/Hawa_Mahal_in_Jaipur.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/0/08/Amber_Fort%2C_Jaipur.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/c/c9/Jal_Mahal_Jaipur.jpg"
-      ]
-    }
-  ]
-}
-
+[
+  {
+    "name": "Goa",
+    "description": "Goa is famous for beaches, nightlife, churches and water sports.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/4/4b/Goa_Beaches.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/2/21/Basilica_of_Bom_Jesus_Goa.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/1/12/Panaji%2C_Goa.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/04/Chapora_Fort_Goa.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/2/29/Palolem_Beach%2C_Goa.jpg"
+    ],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31052.673!2d73.818!3d15.498"
+  },
+  {
+    "name": "Kerala",
+    "description": "Kerala is known for backwaters, houseboats, ayurveda and green landscapes.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/5/5d/Kerala_backwaters_houseboat.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/ee/Alleppey_Boathouse_Kerala.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/55/Munnar_hillstation.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/1/16/Kochi_Fort.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/3/3a/Varkala_beach.jpg"
+    ],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d62000!2d76.271!3d10.850"
+  },
+  {
+    "name": "Ooty",
+    "description": "Ooty is a hill station famous for tea gardens, lakes and cool climate.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/6/6e/Ooty_Lake.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/a6/Ooty_Tea_Garden.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/4/4e/Ooty_Rose_Garden.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/1/1c/Ooty_Boat_House.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/0d/Doddabetta_Ooty.jpg"
+    ],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15843.33!2d76.7!3d11.41"
+  },
+  {
+    "name": "Delhi",
+    "description": "Delhi is famous for historical monuments, markets and street food.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/4/4d/India_Gate_in_New_Delhi_03-2016.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/0c/Red_Fort_in_Delhi.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/6/6b/Qutub_Minar_in_Delhi.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/c5/Lotus_Temple_Delhi.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/e4/Akshardham_Temple_Delhi.jpg"
+    ],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d224345.00!2d77.067!3d28.527"
+  },
+  {
+    "name": "Mumbai",
+    "description": "Mumbai is known for the Gateway of India, Marine Drive and Bollywood.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/4/4c/Gateway_of_India_2016.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/1/15/Marine_Drive_Mumbai.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/f8/Elephanta_Caves_Mumbai.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/c9/Bandra_Worli_Sea_Link.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/08/Chhatrapati_Shivaji_Terminus.jpg"
+    ],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d241318.00!2d72.82!3d19.07"
+  },
+  {
+    "name": "Hyderabad",
+    "description": "Hyderabad is known for Charminar, biryani and historical monuments.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/8c/Charminar_Hyderabad.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/f5/Golconda_Fort_Hyderabad.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/57/Hussain_Sagar_Lake.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/8/80/Ramoji_Film_City.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/6/6b/Chowmahalla_Palace.jpg"
+    ],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d380622.00!2d78.35!3d17.38"
+  },
+  {
+    "name": "Chennai",
+    "description": "Chennai is known for Marina Beach, temples and classical culture.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/0/02/Marina_Beach_Chennai.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/d/d3/Chennai_Central.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/2/25/Kapaleeshwarar_Temple.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/2/2a/Valluvar_Kottam.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/7e/Elliots_Beach_Chennai.jpg"
+    ],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d389107.00!2d80.20!3d13.08"
+  },
+  {
+    "name": "Jaipur",
+    "description": "Jaipur is the Pink City famous for forts and palaces.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/9/9a/Hawa_Mahal.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/6/6d/Amber_Fort.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/1/1f/City_Palace%2C_Jaipur.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/3/3a/Jal_Mahal_in_Jaipur.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/0d/Jantar_Mantar%2C_Jaipur.jpg"
+    ],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d355787.00!2d75.65!3d26.91"
+  },
+  {
+    "name": "Kolkata",
+    "description": "Kolkata is famous for Howrah Bridge, Victoria Memorial and culture.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/6/6e/Victoria_Memorial_Kolkata.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/5d/Howrah_Bridge_Hoogly_River.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/1/15/Dakshineswar_kali_temple.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/4/4c/St_Pauls_Cathedral_Kolkata.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/e/e4/Indian_Museum_Kolkata.jpg"
+    ],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d368100.00!2d88.30!3d22.57"
+  },
+  {
+    "name": "Shimla",
+    "description": "Shimla is a hill station known for snow, Mall Road and scenic beauty.",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/4/49/Shimla_snowfall.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/f/f0/Shimla_Mall_Road.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/7/7e/Kufri%2C_Himachal_Pradesh.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/0/0f/Christ_Church_Shimla.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/c4/Shimla_Ridge.jpg"
+    ],
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d34000.00!2d77.17!3d31.10"
+  }
+]
