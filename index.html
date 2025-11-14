@@ -17,33 +17,33 @@
 </head>
 <body>
 
-<h1>Top Tourist Places in India</h1>
+<h1>Top Tourist Places</h1>
 
 <div id="places"></div>
 
 <script>
 fetch("places.json")
-    .then(response => response.json())
+    .then(r => r.json())
     .then(data => {
         let container = document.getElementById("places");
 
         data.forEach(place => {
             let card = `
-            <div class="place-card">
-                <h2>${place.name}</h2>
-                <p>${place.description}</p>
+                <div class="place-card">
+                    <h2>${place.name}</h2>
+                    <p>${place.description}</p>
 
-                <div class="images">
-                    ${place.images.map(img => `<img src="${img}" alt="">`).join("")}
+                    <div class="images">
+                        ${place.images.map(i => `<img src="${i}" alt="img">`).join("")}
+                    </div>
+
+                    <iframe src="${place.map}" loading="lazy"></iframe>
                 </div>
-
-                <iframe src="${place.map}" loading="lazy"></iframe>
-            </div>
             `;
-
             container.innerHTML += card;
         });
-    });
+    })
+    .catch(err => console.log("JSON load error:", err));
 </script>
 
 </body>
