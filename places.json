@@ -1,114 +1,95 @@
 {
   "places": [
     {
-      "name": "Ooty",
-      "description": "Queen of the Nilgiris, famous for tea gardens, lakes, and misty weather.",
+      "name": "Goa",
+      "description": "Famous for beaches, nightlife, and vibrant culture.",
       "images": [
-        "https://upload.wikimedia.org/wikipedia/commons/9/99/Ooty_lake_boating.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/f/f7/Ooty_Botanical_Garden.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/2/25/Ooty_town_view.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/5/54/Doddabetta_ooty.jpg"
-      ],
-      "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15632.848967861992!2d76.692!3d11.4064"
+        "https://upload.wikimedia.org/wikipedia/commons/f/f6/Baga_Beach_Goa.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/97/Calangute_Beach_Goa.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/12/Panaji%2C_Goa.jpg"
+      ]
     },
     {
-      "name": "Munnar",
-      "description": "Munnar, located in Kerala, is known for its lush tea gardens, waterfalls, and cool climate.",
+      "name": "Kerala",
+      "description": "Known for backwaters, greenery, hill stations, and Ayurveda.",
       "images": [
-        "https://upload.wikimedia.org/wikipedia/commons/9/97/Munnar_tea_plantations.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/d/d7/Munnar_top_station_view.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/7/7d/Mattupetty_Dam.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/1/19/Munnar_Kerala.jpg"
-      ],
-      "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3924.7300586185643!2d77.0577!3d10.0889"
+        "https://upload.wikimedia.org/wikipedia/commons/5/5d/Kerala_backwaters_houseboat.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/ee/Alleppey_Boathouse_Kerala.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/55/Munnar_hillstation.jpg"
+      ]
+    },
+    {
+      "name": "Ooty",
+      "description": "A beautiful hill station famous for gardens and tea estates.",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/0/0c/Ooty_Lake.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/55/Ooty_Botanical_Garden.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/a3/Ooty_Tea_Gardens.jpg"
+      ]
+    },
+    {
+      "name": "Taj Mahal",
+      "description": "One of the Seven Wonders of the World, located in Agra.",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/da/Taj-Mahal.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/fc/Taj_Mahal_sunset.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/12/Taj_Mahal_from_Yamuna.jpg"
+      ]
     },
     {
       "name": "Manali",
-      "description": "Manali is a hill station in Himachal Pradesh known for snow-capped mountains and adventure sports.",
+      "description": "A snowy hill station popular for adventure and nature.",
       "images": [
-        "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manali_town_Himachal_Pradesh.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/b/b6/Solang_Valley_Manali.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/d/d9/Rohtang_Pass_Manali.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/f/f7/Beas_River_Manali.jpg"
-      ],
-      "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3897.872!2d77.188!3d32.2396"
+        "https://upload.wikimedia.org/wikipedia/commons/1/1e/Manali_mountains.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/b/b0/Hidimba_Devi_Temple_Manali.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/31/Solang_Valley_Manali.jpg"
+      ]
     },
     {
-      "name": "Goa",
-      "description": "Goa is India's favorite beach destination, known for beaches, parties, and Portuguese heritage.",
+      "name": "Mumbai",
+      "description": "The City of Dreams, known for beaches, nightlife, and Bollywood.",
       "images": [
-        "https://upload.wikimedia.org/wikipedia/commons/5/53/Baga_Beach_Goa.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/4/4b/Goa_beach_sunset.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/9/9a/Fort_Aguada_Goa.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/e/e5/Old_Goa_Churches.jpg"
-      ],
-      "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d245899.123!2d73.8!3d15.3"
+        "https://upload.wikimedia.org/wikipedia/commons/1/12/Gateway_of_India_Mumbai.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/47/Marine_Drive_at_Night.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/8b/Chhatrapati_Shivaji_Maharaj_Terminus.jpg"
+      ]
+    },
+    {
+      "name": "Varanasi",
+      "description": "One of the oldest cities on Earth, famous for temples and Ganga ghats.",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/0/02/Varanasi_Ghat.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sunset_in_Varanasi.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/5f/Kashi_Vishwanath_Temple.jpg"
+      ]
+    },
+    {
+      "name": "Kolkata",
+      "description": "Cultural capital of India known for heritage and architecture.",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/6/6e/Howrah_Bridge%2C_Kolkata.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/17/Victoria_Memorial_Kolkata.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/8/8d/Dakshineswar_Kali_Temple.jpg"
+      ]
+    },
+    {
+      "name": "Andaman & Nicobar",
+      "description": "Tropical islands known for marine life, beaches, and clear waters.",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/5/55/Radhanagar_Beach_Havelock.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/9a/Port_Blair_Andaman.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/49/Elephant_Beach_Andaman.jpg"
+      ]
     },
     {
       "name": "Jaipur",
-      "description": "Jaipur, the Pink City, is famous for its forts, palaces, and vibrant bazaars.",
+      "description": "The Pink City famous for palaces, forts, and traditional markets.",
       "images": [
-        "https://upload.wikimedia.org/wikipedia/commons/9/99/Hawa_Mahal_2011.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/1/1f/Amber_Fort_Jaipur.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/8/88/City_Palace_Jaipur.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/e/eb/Jal_Mahal_in_Jaipur.jpg"
-      ],
-      "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3559.636!2d75.7873!3d26.9124"
-    },
-    {
-      "name": "Delhi",
-      "description": "Delhi, the capital city of India, is rich in heritage and culture, with landmarks like Red Fort and India Gate.",
-      "images": [
-        "https://upload.wikimedia.org/wikipedia/commons/2/2e/India_Gate_in_New_Delhi_03-2016_img3.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/5/5f/Red_Fort_Delhi_2019.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/7/7c/Qutub_Minar_New_Delhi.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/9/9c/Humayun%27s_Tomb%2C_Delhi%2C_India.jpg"
-      ],
-      "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d224345.315!2d77.0689!3d28.5275"
-    },
-    {
-      "name": "Kashmir",
-      "description": "Kashmir, the paradise on earth, is known for snow peaks, Dal Lake, and shikara rides.",
-      "images": [
-        "https://upload.wikimedia.org/wikipedia/commons/d/d4/Dal_Lake_Kashmir.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/8/8e/Gulmarg_meadows_Kashmir.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/3/34/Pahalgam_Valley_Kashmir.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/2/21/Srinagar_city_view.jpg"
-      ],
-      "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d326969.726!2d74.8!3d34.1"
-    },
-    {
-      "name": "Agra",
-      "description": "Agra is home to the Taj Mahal, one of the Seven Wonders of the World.",
-      "images": [
-        "https://upload.wikimedia.org/wikipedia/commons/d/da/Taj-Mahal.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/1/1d/Agra_Fort_view.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/f/f7/Mehtab_Bagh_Taj_Mahal_View.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/2/24/Tomb_of_I%27tim%C4%81d-ud-Daulah%2C_Agra.jpg"
-      ],
-      "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3561.461!2d78.0421!3d27.1751"
-    },
-    {
-      "name": "Mysore",
-      "description": "Mysore, in Karnataka, is known for the Mysore Palace, Dasara festival, and sandalwood products.",
-      "images": [
-        "https://upload.wikimedia.org/wikipedia/commons/0/0d/Mysore_Palace_Night.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/9/94/Chamundi_Hill_Mysore.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/5/5b/St._Philomena%27s_Church_Mysore.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/6/69/Mysore_Zoo.jpg"
-      ],
-      "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3897.8!2d76.639!3d12.2958"
-    },
-    {
-      "name": "Darjeeling",
-      "description": "Darjeeling is a hill station in West Bengal known for tea gardens and the Toy Train.",
-      "images": [
-        "https://upload.wikimedia.org/wikipedia/commons/a/a7/Darjeeling_Tea_Garden.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/2/22/Darjeeling_Himalayan_Railway_train.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/b/bb/Tiger_Hill_Darjeeling_Sunrise.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/7/7a/Batasia_Loop_Darjeeling.jpg"
-      ],
-      "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d57519.613!2d88.25!3d27.04"
+        "https://upload.wikimedia.org/wikipedia/commons/d/d8/Hawa_Mahal_in_Jaipur.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/08/Amber_Fort%2C_Jaipur.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/c9/Jal_Mahal_Jaipur.jpg"
+      ]
     }
   ]
 }
+
