@@ -3,9 +3,9 @@
     "name": "Goa",
     "description": "Goa is famous for beaches, nightlife, churches and water sports.",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/4/4b/Goa_Beaches.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/2/21/Basilica_of_Bom_Jesus_Goa.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/1/12/Panaji%2C_Goa.jpg"
+      "places/goa1.jpg",
+      "places/goa2.jpg",
+      "places/goa3.jpg"
     ],
     "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31052.673!2d73.818!3d15.498"
   },
@@ -13,9 +13,10 @@
     "name": "Kerala",
     "description": "Kerala is known for backwaters, houseboats, ayurveda and green landscapes.",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/5/5d/Kerala_backwaters_houseboat.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/5/55/Munnar_hillstation.jpg",
-      "https://upload.wikimedia.org/wikipedia/commons/3/3a/Varkala_beach.jpg"
+      "places/kerala1.jpg",
+      "places/kerala2.jpg",
+      "places/kerala3.jpg",
+      "places/kerala4.jpg"
     ],
     "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d62000!2d76.271!3d10.850"
   }
