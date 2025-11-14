@@ -23,27 +23,27 @@
 
 <script>
 fetch("places.json")
-    .then(r => r.json())
+    .then(response => response.json())
     .then(data => {
         let container = document.getElementById("places");
 
         data.forEach(place => {
-            let card = `
+            let html = `
                 <div class="place-card">
                     <h2>${place.name}</h2>
                     <p>${place.description}</p>
 
                     <div class="images">
-                        ${place.images.map(i => `<img src="${i}" alt="img">`).join("")}
+                        ${place.images.map(img => `<img src="${img}" alt="image">`).join("")}
                     </div>
 
                     <iframe src="${place.map}" loading="lazy"></iframe>
                 </div>
             `;
-            container.innerHTML += card;
+            container.innerHTML += html;
         });
     })
-    .catch(err => console.log("JSON load error:", err));
+    .catch(err => console.log("ERROR LOADING JSON:", err));
 </script>
 
 </body>
