@@ -34,7 +34,7 @@ fetch("places.json")
                 <p>${place.description}</p>
                 
                 <div class="images">
-                    ${place.images.map(img => `<img src="${img}" alt="">`).join("")}
+                    ${place.images.map(img => `<img src="places/${img}" alt="">`).join("")}
                 </div>
 
                 <iframe src="${place.map}" loading="lazy"></iframe>
@@ -46,4 +46,3 @@ fetch("places.json")
 
 </body>
 </html>
-
